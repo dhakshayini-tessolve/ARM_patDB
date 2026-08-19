@@ -1,1 +1,0 @@
-../patch0/bscan_pat1_pJTAG.pat

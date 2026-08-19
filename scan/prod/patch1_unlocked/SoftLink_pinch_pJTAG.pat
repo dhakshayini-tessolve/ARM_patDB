@@ -1,1 +1,0 @@
-../patch0/pinch_pJTAG.pat

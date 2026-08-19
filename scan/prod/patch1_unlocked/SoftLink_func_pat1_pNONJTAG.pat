@@ -1,1 +1,0 @@
-../patch0/func_pat1_pNONJTAG.pat

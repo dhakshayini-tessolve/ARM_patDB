@@ -1,1 +1,0 @@
-../patch0/mbist_pat1_pNONJTAG.pat

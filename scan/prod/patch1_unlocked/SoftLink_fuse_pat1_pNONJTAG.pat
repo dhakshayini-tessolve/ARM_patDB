@@ -1,1 +1,0 @@
-../patch0/fuse_pat1_pNONJTAG.pat

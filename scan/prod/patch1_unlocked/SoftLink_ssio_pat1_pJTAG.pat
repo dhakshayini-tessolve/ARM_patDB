@@ -1,1 +1,0 @@
-../patch0/ssio_pat1_pJTAG.pat

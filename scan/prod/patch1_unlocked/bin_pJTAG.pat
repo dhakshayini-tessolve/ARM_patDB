@@ -1,1 +1,0 @@
-/home/dhakshayini/ARM/Aug11/data/ChipX/patterndb/scan/prod/patch0/bin_pJTAG.pat

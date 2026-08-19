@@ -1,1 +1,0 @@
-/home/dhakshayini/ARM/Aug11/data/ChipX/patterndb/scan/prod/patch0/mbist_pat1_pNONJTAG.pat

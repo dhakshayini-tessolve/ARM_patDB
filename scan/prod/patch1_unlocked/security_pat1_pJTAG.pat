@@ -1,1 +1,0 @@
-/home/dhakshayini/ARM/Aug11/data/ChipX/patterndb/scan/prod/patch0/security_pat1_pJTAG.pat
