@@ -1,0 +1,1 @@
+../patch0/bin_pNONJTAG.pat

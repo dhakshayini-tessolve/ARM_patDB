@@ -1,0 +1,1 @@
+../patch0/hsio_pat1_pNONJTAG.pat
