@@ -1,0 +1,1 @@
+../patch0/mbist_pat1_pJTAG.pat

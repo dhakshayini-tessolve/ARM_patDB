@@ -1,0 +1,1 @@
+../patch0/reset_pat1_pNONJTAG.pat

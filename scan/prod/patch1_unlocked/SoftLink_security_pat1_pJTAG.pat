@@ -1,0 +1,1 @@
+../patch0/security_pat1_pJTAG.pat
