@@ -1,0 +1,1 @@
+../patch0/scan_pat1_pNONJTAG.pat

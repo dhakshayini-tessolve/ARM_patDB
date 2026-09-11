@@ -1,0 +1,1 @@
+../patch0/bscan_pat1_pNONJTAG.pat
